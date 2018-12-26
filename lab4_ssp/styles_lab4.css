@@ -1,0 +1,13 @@
+hr {
+    width: 425px;
+    display: inline-flex;
+}
+
+p, h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    width: 425px;
+    height: 425px;
+}
